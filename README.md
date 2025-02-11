@@ -1,49 +1,18 @@
-<h2 align="left">Hi 👋! My name is saba  and I'm a frontend developer.</h2>
+# 💫 About Me:
+👋 Hi, I’m a passionate Frontend Developer<br>🌟 I love turning ideas into functional and visually appealing web applications.<br>🚀 Always learning and exploring new technologies to enhance my skills.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabafarzanegan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farzanegansaba27@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabafarzanegan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabafarzanegan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabafarzanegan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=sabafarzanegan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <a href="farzanegansaba27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sabafarzanegan/sabafarzanegan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">👋 Hi, I’m a passionate Frontend Developer<br>🌟 I love turning ideas into functional and visually appealing web applications.  <br>🚀 Always learning and exploring new technologies to enhance my skills.</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sabafarzanegan/count.svg?"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
